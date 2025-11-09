@@ -1,6 +1,6 @@
 ## Hi, I'm Jun 🏛️
 
-🎓 Computer Science student at Columbia University<br/>
+🎓 Applied Mathmatics & Computer Science student at Columbia University<br/>
 🌋 I create 3D rendering services and explore full-stack development<br/>
 🌐 Passionate about beautiful code, clean UI, and bringing ideas to life<br/>  
 🛠️ Currently diving into C++, computer graphics, and backend architecture<br/> 
