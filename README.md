@@ -1,8 +1,7 @@
 ## Hi, I'm Jun 🏛️
 
 🎓 Applied Mathmatics & Computer Science student at Columbia University<br/>
-🌐 Passionate about beautiful code, clean UI, and bringing ideas to life<br/>  
-🛠️ Currently diving into C++, computer graphics, and backend architecture<br/> 
+🌐 Passionate about NLP research, clean UI, and bringing ideas to life<br/>  
 
 
 ## 🌐 Socials:
